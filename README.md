@@ -11,3 +11,6 @@ https://github.com/jeroentvb/spicetify-playlist-icons
 	adds icons to the playlist list. Wow, that makes no sense gramatically.
 https://github.com/Daksh777/SpotifyNoPremium
 	For those of us who are broke, this is a lifesaver. it removes ads, nad the upgrade button and stuff.
+https://github.com/SyndiShanX/Spotify-Dark
+	A better Dark theme.
+	
