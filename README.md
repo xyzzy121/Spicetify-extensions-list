@@ -1,0 +1,2 @@
+# Spicetify extensions list
+ 
